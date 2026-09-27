@@ -1,10 +1,19 @@
 ---
+<<<<<<< HEAD
 # Hi I'm __Vitali__ <!--![logo](https://myoctocat.com/assets/images/base-octocat.svg)-->
 <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Logo" width="200" height="100" style="float:left">
 
 ### ЖЕЛАЕМАЯ ДОЛЖНОСТЬ: Full-Stack-разработчик
 
 ### ПОЧЕМУ ЭТА ВАКАНСИЯ: Потому что нравится!
+=======
+# Hi I'm __Vitali__ <!--![logo](images/clker-vector-octopus.png)-->
+<img src="images/clker-vector-octopus.png" alt="Logo" width="200" height="100" style="float:left">
+
+### &nbsp;&nbsp;&nbsp;ЖЕЛАЕМАЯ ДОЛЖНОСТЬ: Full-Stack-разработчик
+
+### &nbsp;&nbsp;&nbsp;ПОЧЕМУ ЭТА ВАКАНСИЯ: Потому что нравится!
+>>>>>>> main
 ----
 ### КОНТАКТЫ
 - Телефон: phone number
