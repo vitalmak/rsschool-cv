@@ -1,5 +1,5 @@
 ---
-# Hi I'm __Vitali__ <!--![logo](images/clker-vector-octopus.png)-->
+# Hi, I'm __Vitali__ <!--![logo](images/clker-vector-octopus.png)-->
 <img src="images/clker-vector-octopus.png" alt="Logo" width="200" height="100" style="float:left">
 
 ### &nbsp;&nbsp;&nbsp;ЖЕЛАЕМАЯ ДОЛЖНОСТЬ: Full-Stack-разработчик
